@@ -1,6 +1,6 @@
 # Hand-Gesture-Gaming 
 
-[Game-Link](https://chaitanya-chafale.github.io/Hand-Gesture-Gaming/)
+[Game-Link](https://sahana0804.github.io/game-automation/)
 
 ## About the project
 * This Project takes hand gesture (through webcam of your laptop) as an input to move a 3D character model in a 3D environment build in Unity 3D.
@@ -51,11 +51,6 @@ Note: This game can be played on Laptop/PC only.<br/>
 To watch how the Project works: [Project Demo](https://www.linkedin.com/posts/ashutosh-gupta-b9a949193_react-gesturerecognition-unity3d-ugcPost-6798659191981514752-CFtx) <br/>
 
 
-## Screenshots
-
-<!-- Hand Gesture Recognition
-
-![Hand Gesture Recognition Model](https://user-images.githubusercontent.com/57006874/120469047-81df5880-c3bf-11eb-8644-de02c66c5e06.gif) -->
 
 Unity-Environment
 
@@ -66,15 +61,5 @@ Unity-Character
 ![Character](https://user-images.githubusercontent.com/57006874/120463113-332ec000-c3b9-11eb-931f-c5867198de9c.png)
 
 
-## Contributors
-LinkedIn - Github <br/>
-[Chaitanya Chafale](https://www.linkedin.com/in/chaitanya-chafale/) - [chaitanya-chafale](https://github.com/chaitanya-chafale) <br/>
-[Atharva Sawarkar](https://www.linkedin.com/in/atharvasawarkar/) - [Atharva787](https://github.com/Atharva787) <br/>
-[Ashutosh Gupta](https://www.linkedin.com/in/ashutosh-gupta-b9a949193/) - [Ashutosh0212](https://github.com/Ashutosh0212) <br/>
-[Apoorva Mandavgane](https://www.linkedin.com/in/apoorva-ashish-mandavgane-b116a718b/) - [alpha-maverick](https://github.com/alpha-maverick) <br/>
-[Karan Jadhav](https://www.linkedin.com/in/karan-jadhav-722a71176/) - [karanjadhav12](https://github.com/karanjadhav12)
 
-Also I would like to thanks [Nicholas Renotte](https://www.linkedin.com/in/nicholasrenotte/) for helping us to complete this project through his youtube videos and its explanations.<br/>
-Video: [Real Time AI GESTURE RECOGNITION with Tensorflow.JS + React.JS + Fingerpose](https://www.youtube.com/watch?v=9MTiQMxTXPE&list=PLgNJO2hghbmhqne2KldbiWfzMGJSB6mQK&index=5)<br/>
-Github: [Gesture recognition](https://github.com/nicknochnack/GestureRecognition)
 
